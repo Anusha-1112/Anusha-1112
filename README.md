@@ -56,7 +56,7 @@
   <tr>
     <td><b>Tools & Platforms</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=github,vscode" />
     </td>
   </tr>
 </table>
