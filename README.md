@@ -40,7 +40,7 @@
   </tr>
 
   <tr>
-    <td><b>Data Science & ML</b></td>
+    <td><b>Libraries</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,scipy,sklearn" />
     </td>
