@@ -49,7 +49,7 @@
   <tr>
     <td><b>Database</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=sqlite" />
+     <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
     </td>
   </tr>
 
